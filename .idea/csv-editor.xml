@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="C:\Users\andre\Downloads\NeuralNetworkDemo\data\Iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="C:\Users\andre\OneDrive\Universidad\Semestre 6\Tecnologías emergentes\clustering\data\Mall_Customers.csv">
           <value>
             <Attribute>
