@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Taller 4 - NN/heart_statlog_cleveland_hungary_final.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Taller 3 - Cluster\2022.csv">
           <value>
             <Attribute>
